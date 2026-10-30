@@ -1,0 +1,13 @@
+node_modules/
+dist/
+dist-single/
+.DS_Store
+*.log
+.env*
+
+# Logos y manual: se quedan locales, no van al repositorio público
+public/brand/*.png
+public/brand/*.svg
+docs/manual/
+# Catálogo interno: se queda local
+data/

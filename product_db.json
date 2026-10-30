@@ -1,0 +1,94 @@
+[
+  {
+    "Codigo": "NF63CV3P50",
+    "Model": "NF63-CV",
+    "Frame": "63",
+    "Class": "Economy",
+    "Polos": "3P",
+    "Amperaje": 50,
+    "Descripción": "Molded Case Circuit Breaker 3P 50A",
+    "marketStatus": "Available",
+    "region": "Global",
+    "Accessories": ["Terminal Cover", "Interpole Barrier", "Auxiliary Switch"]
+  },
+  {
+    "Codigo": "NF63CV3P63",
+    "Model": "NF63-CV",
+    "Frame": "63",
+    "Class": "Economy",
+    "Polos": "3P",
+    "Amperaje": 63,
+    "Descripción": "Molded Case Circuit Breaker 3P 63A",
+    "marketStatus": "Available",
+    "region": "Global",
+    "Accessories": ["Terminal Cover", "Interpole Barrier", "Alarm Switch"]
+  },
+  {
+    "Codigo": "NF125CV3P100",
+    "Model": "NF125-CV",
+    "Frame": "125",
+    "Class": "Economy",
+    "Polos": "3P",
+    "Amperaje": 100,
+    "Descripción": "Molded Case Circuit Breaker 3P 100A",
+    "marketStatus": "Available",
+    "region": "Global",
+    "Accessories": ["Terminal Cover", "Interpole Barrier", "Auxiliary Switch", "Alarm Switch"]
+  },
+  {
+    "Codigo": "NF32SV3P32",
+    "Model": "NF32-SV",
+    "Frame": "32",
+    "Class": "Standard",
+    "Polos": "3P",
+    "Amperaje": 32,
+    "Descripción": "Molded Case Circuit Breaker 3P 32A",
+    "marketStatus": "Available",
+    "region": "Global",
+    "Accessories": ["Terminal Cover", "External Handle", "Undervoltage Trip"]
+  },
+  {
+    "Codigo": "NF30CS3P30",
+    "Model": "NF30-CS",
+    "Frame": "30",
+    "Class": "Economy",
+    "Polos": "3P",
+    "Amperaje": 30,
+    "Descripción": "Legacy Circuit Breaker (Discontinued) 3P 30A",
+    "marketStatus": "Discontinued",
+    "region": "Global"
+  },
+  {
+    "Codigo": "NFC100CMX3P100",
+    "Model": "NFC100-CMX",
+    "Frame": "100",
+    "Class": "Economy",
+    "Polos": "3P",
+    "Amperaje": 100,
+    "Descripción": "Molded Case Circuit Breaker (Asia Exclusive) 3P 100A",
+    "marketStatus": "Available",
+    "region": "Asia"
+  },
+  {
+    "Codigo": "NV63CV3P63",
+    "Model": "NV63-CV",
+    "Frame": "63",
+    "Class": "Economy",
+    "Polos": "3P",
+    "Amperaje": 63,
+    "Descripción": "Earth Leakage Circuit Breaker 3P 63A 30mA",
+    "marketStatus": "Available",
+    "region": "Global"
+  },
+  {
+    "Codigo": "NV125CV3P125",
+    "Model": "NV125-CV",
+    "Frame": "125",
+    "Class": "Economy",
+    "Polos": "3P",
+    "Amperaje": 125,
+    "Descripción": "Earth Leakage Circuit Breaker 3P 125A 100.200.500mA",
+    "marketStatus": "Available",
+    "region": "Global"
+  }
+]
